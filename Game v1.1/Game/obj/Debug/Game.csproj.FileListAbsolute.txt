@@ -1,0 +1,13 @@
+C:\Users\xmons\Desktop\MSSA Docs\Game\Game\bin\Debug\Game.exe.config
+C:\Users\xmons\Desktop\MSSA Docs\Game\Game\bin\Debug\Game.exe
+C:\Users\xmons\Desktop\MSSA Docs\Game\Game\bin\Debug\Game.pdb
+C:\Users\xmons\Desktop\MSSA Docs\Game\Game\obj\Debug\Game.exe
+C:\Users\xmons\Desktop\MSSA Docs\Game\Game\obj\Debug\Game.pdb
+C:\Users\xmons\Desktop\MSSA Docs\Game v1.1\Game\bin\Debug\Game.exe.config
+C:\Users\xmons\Desktop\MSSA Docs\Game v1.1\Game\obj\Debug\Game.exe
+C:\Users\xmons\Desktop\MSSA Docs\Game v1.1\Game\obj\Debug\Game.pdb
+C:\Users\xmons\Desktop\Visual Studio Codes\Game v1.1\Game\bin\Debug\Game.exe.config
+C:\Users\xmons\Desktop\Visual Studio Codes\Game v1.1\Game\obj\Debug\Game.exe
+C:\Users\xmons\Desktop\Visual Studio Codes\Game v1.1\Game\obj\Debug\Game.pdb
+C:\Users\xmons\Desktop\Visual Studio Codes\Game v1.1\Game\bin\Debug\Game.exe
+C:\Users\xmons\Desktop\Visual Studio Codes\Game v1.1\Game\bin\Debug\Game.pdb
